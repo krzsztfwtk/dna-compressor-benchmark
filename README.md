@@ -232,8 +232,8 @@ Configurations failing to losslessly reconstruct the original file were omitted.
 - Bigger file size, lower (better) compression ratio, for every compressor tested.
 - Compressors running on Linux are generally slightly faster than on Windows, across all species and file sizes.
 - Compressibility differs substantially by species.
-- **Achromobacter xylosoxidans** is the hardest to compress: highest compression ratio and longest time across all compressors, at matched file sizes.
-- **Streptococcus pneumoniae** is the easiest to compress: lowest compression ratio and shortest time across all compressors, at matched file sizes.
+- **Achromobacter xylosoxidans** genome is the hardest to compress: highest compression ratio and longest time across all compressors, at matched file sizes.
+- **Streptococcus pneumoniae** genome is the easiest to compress: lowest compression ratio and shortest time across all compressors, at matched file sizes.
 
 ## Conclusions
 
