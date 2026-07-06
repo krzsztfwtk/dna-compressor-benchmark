@@ -213,7 +213,6 @@ Configurations failing to losslessly reconstruct the original file were omitted.
 
 #### Compression ratio vs. file size
 
-![Legend](analysis/plots/ratio_legend.svg)
 ![7-Zip](analysis/plots/ratio_7zip_-mx5.svg)
 ![Zstandard](analysis/plots/ratio_zstd_-17.svg)
 ![bzip3](analysis/plots/ratio_bzip3_-b256.svg)
@@ -222,7 +221,6 @@ Configurations failing to losslessly reconstruct the original file were omitted.
 
 #### Compression time vs. file size
 
-![Legend](analysis/plots/time_legend.svg)
 ![7-Zip](analysis/plots/time_7zip_-mx5.svg)
 ![Zstandard](analysis/plots/time_zstd_-17.svg)
 ![bzip3](analysis/plots/time_bzip3_-b256.svg)
