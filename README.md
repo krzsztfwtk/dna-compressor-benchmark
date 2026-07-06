@@ -213,19 +213,21 @@ Configurations failing to losslessly reconstruct the original file were omitted.
 
 #### Compression ratio vs. file size
 
-| | |
-|:---:|:---:|
-| ![Legend](analysis/plots/ratio_legend.svg) | ![7-Zip](analysis/plots/ratio_7zip_-mx5.svg) |
-| ![Zstandard](analysis/plots/ratio_zstd_-17.svg) | ![bzip3](analysis/plots/ratio_bzip3_-b256.svg) |
-| ![bsc](analysis/plots/ratio_bsc_-b2047.svg) | ![ZCM](analysis/plots/ratio_zcm_-m7.svg) |
+![Legend](analysis/plots/ratio_legend.svg)
+![7-Zip](analysis/plots/ratio_7zip_-mx5.svg)
+![Zstandard](analysis/plots/ratio_zstd_-17.svg)
+![bzip3](analysis/plots/ratio_bzip3_-b256.svg)
+![bsc](analysis/plots/ratio_bsc_-b2047.svg)
+![ZCM](analysis/plots/ratio_zcm_-m7.svg)
 
 #### Compression time vs. file size
 
-| | |
-|:---:|:---:|
-| ![Legend](analysis/plots/time_legend.svg) | ![7-Zip](analysis/plots/time_7zip_-mx5.svg) |
-| ![Zstandard](analysis/plots/time_zstd_-17.svg) | ![bzip3](analysis/plots/time_bzip3_-b256.svg) |
-| ![bsc](analysis/plots/time_bsc_-b2047.svg) | ![ZCM](analysis/plots/time_zcm_-m7.svg) |
+![Legend](analysis/plots/time_legend.svg)
+![7-Zip](analysis/plots/time_7zip_-mx5.svg)
+![Zstandard](analysis/plots/time_zstd_-17.svg)
+![bzip3](analysis/plots/time_bzip3_-b256.svg)
+![bsc](analysis/plots/time_bsc_-b2047.svg)
+![ZCM](analysis/plots/time_zcm_-m7.svg)
 
 #### Exp2 conclusions
 
@@ -239,6 +241,6 @@ Configurations failing to losslessly reconstruct the original file were omitted.
 
 - Of the compressors tested, `bsc -b2047` is the best all-around choice for genome data: best compression ratio in both `exp1` and `exp2`, and the cheapest total cost/TB when run on Linux.
 - `bsc` was much faster on Linux thanks to working `OMP_NUM_THREADS` multithreading and CUDA acceleration, neither of which were successfully replicated on the Windows build. It is rather a toolchain issue, not a limitation of the compressor itself.
-- `zcm` was a surprise: a little-known, closed-source, experimental tool that placed second in cost ranking
+- `zcm` was a surprise: a little-known, closed-source, experimental tool that placed second in cost ranking.
 - Larger genomes compress better in relative terms, so batching/concatenating smaller files before compression is preferable to compressing them individually, where feasible.
 - Different bacteria have different amounts of repeated data in their DNA, so they compress differently.
