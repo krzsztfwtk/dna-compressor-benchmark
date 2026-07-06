@@ -1,0 +1,2584 @@
+=== achromobacter_xylosoxidans__01.seq (1900003732 bytes) 07/04/2026 14:46:12 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 1900003732 bytes (1812 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_88c7480d\achromobacter_xylosoxidans__01.seq.7zip
+
+
+
+Add new data to archive: 1 file, 1900003732 bytes (1812 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 103251098 bytes (99 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 103251098 bytes (99 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_88c7480d\achromobacter_xylosoxidans__01.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_88c7480d\achromobacter_xylosoxidans__01.seq.7zip
+
+Type = 7z
+
+Physical Size = 103251098
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       1900003732
+
+Compressed: 103251098
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\achromo(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\achromo encoded 1900003732 => 47922412 in 60.301s (31.51 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 47922412 => 1900003732 in 24.628s (77.15 MB/s)
+
+=== achromobacter_xylosoxidans__01_1_16.seq (118750233 bytes) 07/04/2026 14:52:35 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 118750233 bytes (114 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_390a9adf\achromobacter_xylosoxidans__01_1_16.seq.7zip
+
+
+
+Add new data to archive: 1 file, 118750233 bytes (114 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 6731450 bytes (6574 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 6731450 bytes (6574 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_390a9adf\achromobacter_xylosoxidans__01_1_16.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_390a9adf\achromobacter_xylosoxidans__01_1_16.seq.7zip
+
+Type = 7z
+
+Physical Size = 6731450
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       118750233
+
+Compressed: 6731450
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\achromo(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\achromo encoded 118750233 => 10824612 in 3.339s (35.56 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 10824612 => 118750233 in 1.815s (65.42 MB/s)
+
+=== achromobacter_xylosoxidans__01_1_4.seq (475000933 bytes) 07/04/2026 14:54:12 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 475000933 bytes (453 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_e8474bca\achromobacter_xylosoxidans__01_1_4.seq.7zip
+
+
+
+Add new data to archive: 1 file, 475000933 bytes (453 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 28519426 bytes (28 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 28519426 bytes (28 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_e8474bca\achromobacter_xylosoxidans__01_1_4.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_e8474bca\achromobacter_xylosoxidans__01_1_4.seq.7zip
+
+Type = 7z
+
+Physical Size = 28519426
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       475000933
+
+Compressed: 28519426
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\achromo(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\achromo encoded 475000933 => 22893598 in 14.745s (32.21 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 22893598 => 475000933 in 6.361s (74.68 MB/s)
+
+=== achromobacter_xylosoxidans__01_1_64.seq (29687558 bytes) 07/04/2026 14:57:17 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 29687558 bytes (29 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bd346332\achromobacter_xylosoxidans__01_1_64.seq.7zip
+
+
+
+Add new data to archive: 1 file, 29687558 bytes (29 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 3659870 bytes (3575 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 3659870 bytes (3575 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bd346332\achromobacter_xylosoxidans__01_1_64.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bd346332\achromobacter_xylosoxidans__01_1_64.seq.7zip
+
+Type = 7z
+
+Physical Size = 3659870
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       29687558
+
+Compressed: 3659870
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\achromo(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\achromo encoded 29687558 => 5278022 in 0.811s (36.60 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 5278022 => 29687558 in 0.596s (49.85 MB/s)
+
+=== escherichia_coli__01.seq (20107289519 bytes) 07/04/2026 14:57:51 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 357441491 bytes (341 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_c80897f0\escherichia_coli__01.seq.7zip
+
+7z.exe : ERROR: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_c80897f0\escherichia_coli__01.seq.7zip
+
+At C:\repos\projects\dna-compressor-benchmark\exp2_windows.ps1:119 char:43
+
++ ... ommandWithCpu { & $tools["7z"] x -y $archive "-o$dir" *>> $log_file }
+
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    + CategoryInfo          : NotSpecified: (ERROR: C:\repos...li__01.seq.7zip:String) [], RemoteException
+
+    + FullyQualifiedErrorId : NativeCommandError
+
+ 
+
+Cannot open the file as archive
+
+
+
+
+
+Can't open as archive: 1
+
+Files: 0
+
+Size:       0
+
+Compressed: 0
+
+Invalid signature.
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(10%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(21%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(32%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(42%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(53%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(64%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(74%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(85%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(96%)
+
+C:\repos\projects\dna-compressor-benchmark\data\escheri encoded 20107289519 => 363265180 in 626.270s (32.11 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(10%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(21%)
+
+=== escherichia_coli__01_1_16.seq (1256705594 bytes) 07/04/2026 15:36:34 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 1256705594 bytes (1199 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_9ffd3b71\escherichia_coli__01_1_16.seq.7zip
+
+
+
+Add new data to archive: 1 file, 1256705594 bytes (1199 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 49847957 bytes (48 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 49847957 bytes (48 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_9ffd3b71\escherichia_coli__01_1_16.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_9ffd3b71\escherichia_coli__01_1_16.seq.7zip
+
+Type = 7z
+
+Physical Size = 49847957
+
+Headers Size = 162
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       1256705594
+
+Compressed: 49847957
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\escheri encoded 1256705594 => 31202148 in 38.073s (33.01 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 31202148 => 1256705594 in 20.042s (62.70 MB/s)
+
+=== escherichia_coli__01_1_4.seq (5026822379 bytes) 07/04/2026 21:46:53 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 5026822379 bytes (4794 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_d80fd4c8\escherichia_coli__01_1_4.seq.7zip
+
+
+
+Add new data to archive: 1 file, 5026822379 bytes (4794 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 187979857 bytes (180 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 187979857 bytes (180 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_d80fd4c8\escherichia_coli__01_1_4.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_d80fd4c8\escherichia_coli__01_1_4.seq.7zip
+
+Type = 7z
+
+Physical Size = 187979857
+
+Headers Size = 162
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       5026822379
+
+Compressed: 187979857
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(42%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(85%)
+
+C:\repos\projects\dna-compressor-benchmark\data\escheri encoded 5026822379 => 91423578 in 153.636s (32.72 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(40%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(86%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 91423578 => 5026822379 in 61.030s (82.37 MB/s)
+
+=== escherichia_coli__01_1_64.seq (314176398 bytes) 07/04/2026 22:04:49 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 314176398 bytes (300 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a4af3d3a\escherichia_coli__01_1_64.seq.7zip
+
+
+
+Add new data to archive: 1 file, 314176398 bytes (300 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 15504201 bytes (15 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 15504201 bytes (15 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a4af3d3a\escherichia_coli__01_1_64.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a4af3d3a\escherichia_coli__01_1_64.seq.7zip
+
+Type = 7z
+
+Physical Size = 15504201
+
+Headers Size = 162
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       314176398
+
+Compressed: 15504201
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\escheri encoded 314176398 => 16645204 in 9.390s (33.46 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 16645204 => 314176398 in 5.267s (59.65 MB/s)
+
+=== listeria_monocytogenes__01.seq (11895061336 bytes) 07/04/2026 22:07:29 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 11895061336 bytes (12 GiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bbc9718f\listeria_monocytogenes__01.seq.7zip
+
+
+
+Add new data to archive: 1 file, 11895061336 bytes (12 GiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 247509280 bytes (237 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 247509280 bytes (237 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bbc9718f\listeria_monocytogenes__01.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bbc9718f\listeria_monocytogenes__01.seq.7zip
+
+Type = 7z
+
+Physical Size = 247509280
+
+Headers Size = 170
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       11895061336
+
+Compressed: 247509280
+
+Invalid signature.
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(18%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(36%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(54%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(72%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(90%)
+
+C:\repos\projects\dna-compressor-benchmark\data\listeri encoded 11895061336 => 80723598 in 345.987s (34.38 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(17%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(34%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(51%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(68%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(85%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 80723598 => 11895061336 in 134.607s (88.37 MB/s)
+=== escherichia_coli__01_1_16.seq [zcm] 07/05/2026 22:22:31 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\escherichia_coli__01_1_16.seq.zcm 
+
+ close task's active 
+
+ Compressed 1256705594 bytes to 48818127 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\escherichia_coli__01_1_16.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== listeria_monocytogenes__01.seq [bzip3] 07/05/2026 22:22:55 ===
+=== listeria_monocytogenes__01.seq [zcm] 07/05/2026 22:25:46 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01.seq.zcm 
+
+ close task's active 
+
+ Compressed -989840552 bytes to 41947445 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== listeria_monocytogenes__01_1_4.seq [7zip] 07/05/2026 22:27:51 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 2973765334 bytes (2837 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a1a747c1\listeria_monocytogenes__01_1_4.seq.7zip
+
+
+
+Add new data to archive: 1 file, 2973765334 bytes (2837 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 63122834 bytes (61 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 63122834 bytes (61 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a1a747c1\listeria_monocytogenes__01_1_4.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_a1a747c1\listeria_monocytogenes__01_1_4.seq.7zip
+
+Type = 7z
+
+Physical Size = 63122834
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       2973765334
+
+Compressed: 63122834
+
+=== listeria_monocytogenes__01_1_4.seq [zstd] 07/05/2026 22:30:56 ===
+=== listeria_monocytogenes__01_1_4.seq [bzip3] 07/05/2026 22:32:28 ===
+Failed to decode data: CRC32 check failed
+=== listeria_monocytogenes__01_1_4.seq [bsc] 07/05/2026 22:33:21 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(72%)
+
+C:\repos\projects\dna-compressor-benchmark\data\listeri encoded 2973765334 => 24676916 in 84.391s (35.24 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(56%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 24676916 => 2973765334 in 33.737s (88.15 MB/s)
+
+=== listeria_monocytogenes__01_1_4.seq [zcm] 07/05/2026 22:35:23 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_4.seq.zcm 
+
+ close task's active 
+
+ Compressed -1321201962 bytes to 30118722 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_4.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== listeria_monocytogenes__01_1_16.seq [7zip] 07/05/2026 22:35:58 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 743441333 bytes (710 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_2d60057e\listeria_monocytogenes__01_1_16.seq.7zip
+
+
+
+Add new data to archive: 1 file, 743441333 bytes (710 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 15788398 bytes (16 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 15788398 bytes (16 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_2d60057e\listeria_monocytogenes__01_1_16.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_2d60057e\listeria_monocytogenes__01_1_16.seq.7zip
+
+Type = 7z
+
+Physical Size = 15788398
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       743441333
+
+Compressed: 15788398
+
+=== listeria_monocytogenes__01_1_16.seq [zstd] 07/05/2026 22:37:10 ===
+=== listeria_monocytogenes__01_1_16.seq [bzip3] 07/05/2026 22:37:35 ===
+=== listeria_monocytogenes__01_1_16.seq [bsc] 07/05/2026 22:38:13 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\listeri encoded 743441333 => 10485150 in 20.649s (36.00 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 10485150 => 743441333 in 9.831s (75.62 MB/s)
+
+=== listeria_monocytogenes__01_1_16.seq [zcm] 07/05/2026 22:38:45 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_16.seq.zcm 
+
+ close task's active 
+
+ Compressed 743441333 bytes to 21193900 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_16.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== listeria_monocytogenes__01_1_64.seq [7zip] 07/05/2026 22:38:57 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 185860333 bytes (178 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_50b3b3ad\listeria_monocytogenes__01_1_64.seq.7zip
+
+
+
+Add new data to archive: 1 file, 185860333 bytes (178 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 5045462 bytes (4928 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 5045462 bytes (4928 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_50b3b3ad\listeria_monocytogenes__01_1_64.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_50b3b3ad\listeria_monocytogenes__01_1_64.seq.7zip
+
+Type = 7z
+
+Physical Size = 5045462
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       185860333
+
+Compressed: 5045462
+
+=== listeria_monocytogenes__01_1_64.seq [zstd] 07/05/2026 22:39:49 ===
+=== listeria_monocytogenes__01_1_64.seq [bzip3] 07/05/2026 22:40:02 ===
+=== listeria_monocytogenes__01_1_64.seq [bsc] 07/05/2026 22:40:27 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\listeri(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\listeri encoded 185860333 => 7036450 in 5.030s (36.95 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 7036450 => 185860333 in 2.621s (70.91 MB/s)
+
+=== listeria_monocytogenes__01_1_64.seq [zcm] 07/05/2026 22:40:36 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_64.seq.zcm 
+
+ close task's active 
+
+ Compressed 185860333 bytes to 16094964 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\listeria_monocytogenes__01_1_64.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== mycobacterium_tuberculosis__01.seq [7zip] 07/05/2026 22:40:42 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 17431192636 bytes (17 GiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_980f5750\mycobacterium_tuberculosis__01.seq.7zip
+
+
+
+Add new data to archive: 1 file, 17431192636 bytes (17 GiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 348687804 bytes (333 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 348687804 bytes (333 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_980f5750\mycobacterium_tuberculosis__01.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_980f5750\mycobacterium_tuberculosis__01.seq.7zip
+
+Type = 7z
+
+Physical Size = 348687804
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+7z.exe : ERROR: CRC Failed : mycobacterium_tuberculosis__01.seq
+
+At C:\repos\projects\dna-compressor-benchmark\exp2_windows.ps1:140 char:43
+
++ ... ommandWithCpu { & $tools["7z"] x -y $archive "-o$dir" *>> $log_file }
+
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    + CategoryInfo          : NotSpecified: (ERROR: CRC Fail...culosis__01.seq:String) [], RemoteExcepti 
+
+   on
+
+    + FullyQualifiedErrorId : NativeCommandError
+
+ 
+
+
+
+Sub items Errors: 1
+
+
+
+Archives with Errors: 1
+
+
+
+Sub items Errors: 1
+
+=== mycobacterium_tuberculosis__01.seq [zstd] 07/05/2026 22:57:10 ===
+=== mycobacterium_tuberculosis__01.seq [bzip3] 07/05/2026 23:04:42 ===
+Invalid signature.
+=== mycobacterium_tuberculosis__01.seq [bsc] 07/05/2026 23:05:18 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(12%)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+bsc.exe : 
+
+At C:\repos\projects\dna-compressor-benchmark\exp2_windows.ps1:183 char:43
+
++ ... mandWithCpu { & $tools["bsc"] d $archive $decomp_file *>> $log_file }
+
++                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    + CategoryInfo          : NotSpecified: (:String) [], RemoteException
+
+    + FullyQualifiedErrorId : NativeCommandError
+
+ 
+
+Unexpected end of file: C:\repos\projects\dna-compressor-benchmark\results\tmp\bsc_3fe3241d\mycobacterium
+
+_tuberculosis__01.seq.bsc!
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+=== mycobacterium_tuberculosis__01.seq [zcm] 07/05/2026 23:06:49 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01.seq.zcm 
+
+ close task's active 
+
+ Compressed 251323452 bytes to 46088829 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== mycobacterium_tuberculosis__01_1_4.seq [7zip] 07/05/2026 23:09:50 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 4357798159 bytes (4156 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_6cd7c1d2\mycobacterium_tuberculosis__01_1_4.seq.7zip
+
+
+
+Add new data to archive: 1 file, 4357798159 bytes (4156 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 83415507 bytes (80 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 83415507 bytes (80 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_6cd7c1d2\mycobacterium_tuberculosis__01_1_4.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_6cd7c1d2\mycobacterium_tuberculosis__01_1_4.seq.7zip
+
+Type = 7z
+
+Physical Size = 83415507
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       4357798159
+
+Compressed: 83415507
+
+=== mycobacterium_tuberculosis__01_1_4.seq [zstd] 07/05/2026 23:14:30 ===
+=== mycobacterium_tuberculosis__01_1_4.seq [bzip3] 07/05/2026 23:16:28 ===
+Failed to decode data: CRC32 check failed
+=== mycobacterium_tuberculosis__01_1_4.seq [bsc] 07/05/2026 23:17:32 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(49%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(98%)
+
+C:\repos\projects\dna-compressor-benchmark\data\mycobac encoded 4357798159 => 22810862 in 127.811s (34.10 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(42%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(80%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 22810862 => 4357798159 in 47.873s (91.03 MB/s)
+
+=== mycobacterium_tuberculosis__01_1_4.seq [zcm] 07/05/2026 23:20:33 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_4.seq.zcm 
+
+ close task's active 
+
+ Compressed 62830863 bytes to 20982884 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_4.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== mycobacterium_tuberculosis__01_1_16.seq [7zip] 07/05/2026 23:21:20 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 1089449539 bytes (1039 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_988dc326\mycobacterium_tuberculosis__01_1_16.seq.7zip
+
+
+
+Add new data to archive: 1 file, 1089449539 bytes (1039 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 23089880 bytes (23 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 23089880 bytes (23 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_988dc326\mycobacterium_tuberculosis__01_1_16.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_988dc326\mycobacterium_tuberculosis__01_1_16.seq.7zip
+
+Type = 7z
+
+Physical Size = 23089880
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       1089449539
+
+Compressed: 23089880
+
+=== mycobacterium_tuberculosis__01_1_16.seq [zstd] 07/05/2026 23:22:45 ===
+=== mycobacterium_tuberculosis__01_1_16.seq [bzip3] 07/05/2026 23:23:18 ===
+Invalid signature.
+=== mycobacterium_tuberculosis__01_1_16.seq [bsc] 07/05/2026 23:23:27 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\mycobac encoded 1089449539 => 8858716 in 31.228s (34.89 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 8858716 => 1089449539 in 11.738s (92.81 MB/s)
+
+=== mycobacterium_tuberculosis__01_1_16.seq [zcm] 07/05/2026 23:24:11 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_16.seq.zcm 
+
+ close task's active 
+
+ Compressed 1089449539 bytes to 18896579 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_16.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== mycobacterium_tuberculosis__01_1_64.seq [7zip] 07/05/2026 23:24:27 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 272362384 bytes (260 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bb46d0aa\mycobacterium_tuberculosis__01_1_64.seq.7zip
+
+
+
+Add new data to archive: 1 file, 272362384 bytes (260 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 6320100 bytes (6172 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 6320100 bytes (6172 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bb46d0aa\mycobacterium_tuberculosis__01_1_64.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_bb46d0aa\mycobacterium_tuberculosis__01_1_64.seq.7zip
+
+Type = 7z
+
+Physical Size = 6320100
+
+Headers Size = 186
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       272362384
+
+Compressed: 6320100
+
+=== mycobacterium_tuberculosis__01_1_64.seq [zstd] 07/05/2026 23:25:26 ===
+=== mycobacterium_tuberculosis__01_1_64.seq [bzip3] 07/05/2026 23:25:39 ===
+=== mycobacterium_tuberculosis__01_1_64.seq [bsc] 07/05/2026 23:26:15 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\mycobac encoded 272362384 => 6112992 in 7.482s (36.40 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 6112992 => 272362384 in 3.125s (87.17 MB/s)
+
+=== mycobacterium_tuberculosis__01_1_64.seq [zcm] 07/05/2026 23:26:27 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_64.seq.zcm 
+
+ close task's active 
+
+ Compressed 272362384 bytes to 17036024 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\mycobacterium_tuberculosis__01_1_64.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== streptococcus_pneumoniae__01.seq [7zip] 07/05/2026 23:26:34 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 32 bytes (1 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_f41ddc7a\streptococcus_pneumoniae__01.seq.7zip
+
+7z.exe : ERROR: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_f41ddc7a\streptococcus_pneumo
+
+niae__01.seq.7zip
+
+At C:\repos\projects\dna-compressor-benchmark\exp2_windows.ps1:140 char:43
+
++ ... ommandWithCpu { & $tools["7z"] x -y $archive "-o$dir" *>> $log_file }
+
++                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    + CategoryInfo          : NotSpecified: (ERROR: C:\repos...ae__01.seq.7zip:String) [], RemoteExcepti 
+
+   on
+
+    + FullyQualifiedErrorId : NativeCommandError
+
+ 
+
+Cannot open the file as archive
+
+
+
+
+
+Can't open as archive: 1
+
+Files: 0
+
+Size:       0
+
+Compressed: 0
+
+=== streptococcus_pneumoniae__01.seq [zstd] 07/05/2026 23:27:35 ===
+=== streptococcus_pneumoniae__01.seq [bzip3] 07/05/2026 23:31:34 ===
+Failed to decode data: CRC32 check failed
+=== streptococcus_pneumoniae__01.seq [bsc] 07/05/2026 23:33:32 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(25%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(51%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(77%)
+
+C:\repos\projects\dna-compressor-benchmark\data\strepto encoded 8323738202 => 61669086 in 245.249s (33.94 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(20%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(47%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(72%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 61669086 => 8323738202 in 93.751s (88.79 MB/s)
+
+=== streptococcus_pneumoniae__01.seq [zcm] 07/05/2026 23:39:19 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01.seq.zcm 
+
+ close task's active 
+
+ Compressed -266196390 bytes to 48367720 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== streptococcus_pneumoniae__01_1_4.seq [7zip] 07/05/2026 23:40:54 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 2080934550 bytes (1985 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5939edbf\streptococcus_pneumoniae__01_1_4.seq.7zip
+
+
+
+Add new data to archive: 1 file, 2080934550 bytes (1985 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 31408138 bytes (30 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 31408138 bytes (30 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5939edbf\streptococcus_pneumoniae__01_1_4.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5939edbf\streptococcus_pneumoniae__01_1_4.seq.7zip
+
+Type = 7z
+
+Physical Size = 31408138
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       2080934550
+
+Compressed: 31408138
+
+=== streptococcus_pneumoniae__01_1_4.seq [zstd] 07/05/2026 23:43:03 ===
+=== streptococcus_pneumoniae__01_1_4.seq [bzip3] 07/05/2026 23:43:54 ===
+=== streptococcus_pneumoniae__01_1_4.seq [bsc] 07/05/2026 23:44:39 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\strepto encoded 2080934550 => 12718126 in 60.999s (34.11 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 12718126 => 2080934550 in 23.334s (89.18 MB/s)
+
+=== streptococcus_pneumoniae__01_1_4.seq [zcm] 07/05/2026 23:46:06 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_4.seq.zcm 
+
+ close task's active 
+
+ Compressed 2080934550 bytes to 20331859 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_4.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== streptococcus_pneumoniae__01_1_16.seq [7zip] 07/05/2026 23:46:31 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 520233637 bytes (497 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5c49b5c0\streptococcus_pneumoniae__01_1_16.seq.7zip
+
+
+
+Add new data to archive: 1 file, 520233637 bytes (497 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 6998343 bytes (6835 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 6998343 bytes (6835 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5c49b5c0\streptococcus_pneumoniae__01_1_16.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_5c49b5c0\streptococcus_pneumoniae__01_1_16.seq.7zip
+
+Type = 7z
+
+Physical Size = 6998343
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       520233637
+
+Compressed: 6998343
+
+=== streptococcus_pneumoniae__01_1_16.seq [zstd] 07/05/2026 23:47:28 ===
+=== streptococcus_pneumoniae__01_1_16.seq [bzip3] 07/05/2026 23:47:41 ===
+=== streptococcus_pneumoniae__01_1_16.seq [bsc] 07/05/2026 23:48:19 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\strepto encoded 520233637 => 6960258 in 13.997s (37.17 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 6960258 => 520233637 in 5.566s (93.46 MB/s)
+
+=== streptococcus_pneumoniae__01_1_16.seq [zcm] 07/05/2026 23:48:40 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_16.seq.zcm 
+
+ close task's active 
+
+ Compressed 520233637 bytes to 12709428 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_16.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== streptococcus_pneumoniae__01_1_64.seq [7zip] 07/05/2026 23:48:48 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 130058409 bytes (125 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_43d7505f\streptococcus_pneumoniae__01_1_64.seq.7zip
+
+
+
+Add new data to archive: 1 file, 130058409 bytes (125 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 2115601 bytes (2067 KiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 2115601 bytes (2067 KiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_43d7505f\streptococcus_pneumoniae__01_1_64.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_43d7505f\streptococcus_pneumoniae__01_1_64.seq.7zip
+
+Type = 7z
+
+Physical Size = 2115601
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       130058409
+
+Compressed: 2115601
+
+=== streptococcus_pneumoniae__01_1_64.seq [zstd] 07/05/2026 23:49:26 ===
+=== streptococcus_pneumoniae__01_1_64.seq [bzip3] 07/05/2026 23:49:36 ===
+=== streptococcus_pneumoniae__01_1_64.seq [bsc] 07/05/2026 23:49:54 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\strepto(00%)
+
+C:\repos\projects\dna-compressor-benchmark\data\strepto encoded 130058409 => 4792406 in 3.329s (39.07 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 4792406 => 130058409 in 1.509s (86.21 MB/s)
+
+=== streptococcus_pneumoniae__01_1_64.seq [zcm] 07/05/2026 23:50:00 ===
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess compression use 8 task 
+
+Archive is C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_64.seq.zcm 
+
+ close task's active 
+
+ Compressed 130058409 bytes to 11196372 bytes 
+
+ZCM Archiver v.0.93.  Demo version.                                             
+
+copyright (C) 2011-2015 By Nania Francesco Antonio                              
+
+multiprocess etraction use 8 task 
+
+ARGV=*
+
+Archive=C:\repos\projects\dna-compressor-benchmark\results\tmp\streptococcus_pneumoniae__01_1_64.seq.zcm Wild=* DEST=C:\repos\projects\dna-compressor-benchmark\
+
+ Decompression verify 
+
+ OK! 
+
+=== escherichia_coli__01.seq [7zip] 07/05/2026 23:50:05 ===
+=== listeria_monocytogenes__01_1_4.seq [bzip3] 07/06/2026 08:11:53 ===
+=== mycobacterium_tuberculosis__01.seq [7zip] 07/06/2026 08:12:48 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 17431192636 bytes (17 GiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_af94ea16\mycobacterium_tuberculosis__01.seq.7zip
+
+
+
+Add new data to archive: 1 file, 17431192636 bytes (17 GiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 348687347 bytes (333 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 348687347 bytes (333 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_af94ea16\mycobacterium_tuberculosis__01.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_af94ea16\mycobacterium_tuberculosis__01.seq.7zip
+
+Type = 7z
+
+Physical Size = 348687347
+
+Headers Size = 178
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       17431192636
+
+Compressed: 348687347
+
+=== mycobacterium_tuberculosis__01.seq [bzip3] 07/06/2026 08:29:14 ===
+Invalid signature.
+=== mycobacterium_tuberculosis__01.seq [bsc] 07/06/2026 08:29:52 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(12%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(24%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(36%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(49%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(61%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(73%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(86%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\mycobac(98%)
+
+C:\repos\projects\dna-compressor-benchmark\data\mycobac encoded 17431192636 => 98665224 in 517.957s (33.65 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(09%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(18%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(31%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(44%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(54%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(65%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(76%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(93%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 98665224 => 17431192636 in 193.553s (90.06 MB/s)
+
+=== mycobacterium_tuberculosis__01_1_4.seq [bzip3] 07/06/2026 08:41:59 ===
+=== mycobacterium_tuberculosis__01_1_16.seq [bzip3] 07/06/2026 08:43:08 ===
+=== streptococcus_pneumoniae__01.seq [7zip] 07/06/2026 08:43:49 ===
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive:
+
+1 file, 8323738202 bytes (7939 MiB)
+
+
+
+Creating archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_ca8f35b6\streptococcus_pneumoniae__01.seq.7zip
+
+
+
+Add new data to archive: 1 file, 8323738202 bytes (7939 MiB)
+
+
+
+
+
+Files read from disk: 1
+
+Archive size: 166178162 bytes (159 MiB)
+
+Everything is Ok
+
+
+
+7-Zip 26.02 (x64) : Copyright (c) 1999-2026 Igor Pavlov : 2026-06-25
+
+
+
+Scanning the drive for archives:
+
+1 file, 166178162 bytes (159 MiB)
+
+
+
+Extracting archive: C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_ca8f35b6\streptococcus_pneumoniae__01.seq.7zip
+
+--
+
+Path = C:\repos\projects\dna-compressor-benchmark\results\tmp\7zip_ca8f35b6\streptococcus_pneumoniae__01.seq.7zip
+
+Type = 7z
+
+Physical Size = 166178162
+
+Headers Size = 170
+
+Method = LZMA2:25
+
+Solid = -
+
+Blocks = 1
+
+
+
+Everything is Ok
+
+
+
+Size:       8323738202
+
+Compressed: 166178162
+
+=== streptococcus_pneumoniae__01.seq [bzip3] 07/06/2026 08:50:50 ===
+Invalid signature.
+=== escherichia_coli__01.seq [bzip3] 07/06/2026 08:51:23 ===
+Invalid signature.
+=== escherichia_coli__01.seq [bsc] 07/06/2026 08:52:05 ===
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(00%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(10%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(21%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(32%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(42%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(53%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(64%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(74%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(85%)
+
+Compressing C:\repos\projects\dna-compressor-benchmark\data\escheri(96%)
+
+C:\repos\projects\dna-compressor-benchmark\data\escheri encoded 20107289519 => 363265334 in 621.668s (32.34 MB/s)
+
+This is bsc, Block Sorting Compressor. Version 3.3.12, 9 September 2025.
+
+Copyright (c) 2009-2025 Ilya Grebnov <Ilya.Grebnov@gmail.com>.
+
+
+
+
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(00%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(10%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(21%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(27%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(39%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(53%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(64%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(74%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(81%)
+
+Decompressing C:\repos\projects\dna-compressor-benchmark\results\tmp\(92%)
+
+C:\repos\projects\dna-compressor-benchmark\results\tmp\ decoded 363265334 => 20107289519 in 242.835s (82.80 MB/s)
+
+=== mycobacterium_tuberculosis__01.seq [bzip3] 07/06/2026 09:17:15 ===
+=== streptococcus_pneumoniae__01.seq [bzip3] 07/06/2026 09:21:39 ===
+=== escherichia_coli__01.seq [bzip3] 07/06/2026 09:24:06 ===
+Error: Corrupt file
+=== escherichia_coli__01.seq [7zip] 07/06/2026 09:25:40 ===
+=== escherichia_coli__01.seq [bzip3] 07/06/2026 09:32:05 ===
+Error: Corrupt file
