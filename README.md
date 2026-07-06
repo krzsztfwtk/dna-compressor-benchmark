@@ -150,7 +150,7 @@ None of this is confirmed - the cleanest way to test the hardware hypothesis wou
 
 ### Experiment 1
 
-Configurations failing to losslessly reconstruct the original file were omitted.
+Configurations failing to losslessly reconstruct the original file were omitted (see **Notes on intermittent failures**).
 
 #### Compression ratio vs. compression time
 
@@ -169,7 +169,7 @@ The following charts present the compression ratio versus compression time acros
 
 The financial costs were estimated using following assumptions:
 
-- **Compute Cost/TB:** Machine used in this benchmark is similar to AWS EC2 `c6g.8xlarge` with costs $1.088/hour ([see Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)).
+- **Compute Cost/TB:** Machine used in this benchmark is similar to AWS EC2 `c6g.8xlarge` with costs $1.088/hour (see [Amazon EC2 On-Demand Pricing](https://aws.amazon.com/ec2/pricing/on-demand/)).
 - **Storage Cost/TB:** The AWS S3 One Zone-Infrequent Access rate is $0.01/GB/month. Assuming we keep the data stored for 2 years (24 months), the effective rate becomes $0.24/GB (see [Amazon S3](https://aws.amazon.com/s3/pricing/))
 
 | Compressor | OS | Level | Total cost/TB | Compute cost/TB | Storage cost/TB | CPU usage compression [%] | CPU usage decompression [%] |
@@ -209,7 +209,7 @@ The financial costs were estimated using following assumptions:
 
 ### Experiment 2
 
-Configurations failing to losslessly reconstruct the original file were omitted.
+Configurations failing to losslessly reconstruct the original file were omitted (see **Notes on intermittent failures**).
 
 #### Compression ratio vs. file size
 
