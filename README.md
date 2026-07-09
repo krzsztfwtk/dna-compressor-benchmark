@@ -2,6 +2,18 @@
 
 This benchmark evaluates the performance of general compression tools on a large collection of bacterial genomes ([AllTheBacteria](https://allthebacteria.org/) project data). This repository contains scripts to run the benchmark and analyze the data, alongside my own results and conclusions.
 
+## Input data characteristics
+
+| Species | Genome count | Total size | Mean genome length [bp] | Std. dev. genome length [bp] |
+| --- | --- | --- | --- | --- |
+| Achromobacter Xylosoxidans | 285 | 1.8 GiB | 6 666 550 | 515 583 |
+| Escherichia Coli | 4 000 | 18.7 GiB | 5 026 558 | 636 199 |
+| Listeria Monocytogenes | 4 000 | 11.1 GiB | 2 973 731 | 84 179 |
+| Mycobacterium Tuberculosis | 4 000 | 16.2 GiB | 4 357 620 | 199 158 |
+| Streptococcus Pneumoniae | 4 000 | 7.8 GiB | 2 080 783 | 108 058 |
+
+`Genome count` is number of isolate assemblies per species; `.fa` files in the original [AllTheBacteria](https://allthebacteria.org/) dataset before merged into one `.seq` file per species. Genome length is total number of bases (A/C/G/T) per isolate.
+
 ## Compressors descriptions
 
 | Name | Popularity | Code Access | Algorithms Used | Multithreading Support |
@@ -71,7 +83,7 @@ Decompression paths do not behave as expected. While passing a target directory 
 
 ### Experiment 2 (exp2)
 
-- Evaluates selected compressors using the optimized configurations discovered in `exp1` across multiple bacterial species data with varying file sizes.
+- Evaluates selected compressors using the optimized configurations discovered in `exp1` across multiple bacterial species data, each tested at four sizes: the full `.seq` file and three byte-level truncations at 1/4, 1/16, and 1/64 of the full size.
 - The goal is to observe how total dataset size impacts the compression ratio for different bacterial genome and determine the compression characteristics of specific bacterial genomes.
 
 ## Replicate results
